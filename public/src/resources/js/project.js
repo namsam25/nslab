@@ -20,5 +20,7 @@ namsam([
 		controller:'common'
 	}
 ],{
-
+	common:function(){
+		alert('common스크립트');
+	}
 });
