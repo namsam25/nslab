@@ -19,4 +19,6 @@ namsam([
 		path:'',
 		controller:'common'
 	}
-])
+],{
+
+});
