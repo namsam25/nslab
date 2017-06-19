@@ -30,4 +30,3 @@ var fn = (function() {
 	}
 }).();
 */
-alert('asdf');
