@@ -1,4 +1,5 @@
 /**/
+/*
 var namsam = function(page, controller) {
 	'use strict';
 
@@ -16,8 +17,9 @@ var namsam = function(page, controller) {
 	}
 	//controller['main']();
 };
-
+*/
 /**/
+/*
 var fn = (function() {
 	'use strict';
 
@@ -27,3 +29,5 @@ var fn = (function() {
 		}
 	}
 }).();
+*/
+alert('asdf');

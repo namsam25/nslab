@@ -1,4 +1,4 @@
-
+/*
 $.fn.outerHTML = function(){
 	var th = $(this);
 	if( !th[0] ) return "";
@@ -19,3 +19,4 @@ namsam([
 ],{
 
 });
+*/
